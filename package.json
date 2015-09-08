@@ -1,6 +1,6 @@
 {
   "name": "autocomplete-zurb-apps",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Zurb Foundation for Apps element and attribute autocompletions",
   "main": "./lib/main",
   "license": "MIT",
