@@ -1,6 +1,6 @@
 # Zurb Foundation for Apps Autocomplete Package
 
-[Zurb Foundation for App](http://foundation.zurb.com/apps/) tag and attribe autocompletions in Atom. Install
+[Zurb Foundation for Apps](http://foundation.zurb.com/apps/) tag and attribe autocompletions in Atom. Install
 [autocomplete-plus](https://github.com/atom-community/autocomplete-plus) before
 installing this package.
 
